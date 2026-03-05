@@ -102,12 +102,12 @@ if result:
         output_language = "en"
     elif out_lang == "Español":
         output_language = "es"
-    elif out_lang == "Bengali":
-        output_language = "bn"
+    elif out_lang == "Frances":
+        output_language = "fr"
     elif out_lang == "Coreano":
         output_language = "ko"
-    elif out_lang == "Mandarín":
-        output_language = "zh-cn"
+    elif out_lang == "Portugues":
+        output_language = "pt"
     elif out_lang == "Japonés":
         output_language = "ja"
     
